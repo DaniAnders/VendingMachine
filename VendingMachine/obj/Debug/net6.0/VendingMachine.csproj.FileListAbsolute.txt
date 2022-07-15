@@ -1,0 +1,15 @@
+/Users/danielle/Projects/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine
+/Users/danielle/Projects/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.deps.json
+/Users/danielle/Projects/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.runtimeconfig.json
+/Users/danielle/Projects/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.dll
+/Users/danielle/Projects/VendingMachine/VendingMachine/bin/Debug/net6.0/VendingMachine.pdb
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.csproj.AssemblyReference.cache
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.AssemblyInfoInputs.cache
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.AssemblyInfo.cs
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.csproj.CoreCompileInputs.cache
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.dll
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/refint/VendingMachine.dll
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.pdb
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/VendingMachine.genruntimeconfig.cache
+/Users/danielle/Projects/VendingMachine/VendingMachine/obj/Debug/net6.0/ref/VendingMachine.dll

@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{7B3198EB-8A5D-4C0F-AD3E-A5F7050FDAA3}|Default">
+  <MonoDevelop.Ide.ItemProperties.VendingMachine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VendingMachine__Tests FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
